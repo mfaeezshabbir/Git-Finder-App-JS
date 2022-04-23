@@ -9,7 +9,10 @@ body {
   background-color: #eee;
   background: #141d26;
 }
-
+.container .input_wrapper .btn_submit{
+  background-color:#FFC93C;
+  color:rgba(0, 0, 0, 1);
+}
 .container {
   width: 100%;
   display: flex;
